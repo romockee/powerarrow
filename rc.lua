@@ -507,24 +507,8 @@ spr = widget({ type = "textbox" })
 spr.text = ' '
 sprd = widget({ type = "textbox" })
 sprd.text = '<span background="#313131" font="Terminus 12"> </span>'
-sprdots = widget({ type = "textbox" })
-sprdots.text = '⁝'
-arrl = widget ({type = "imagebox" })
-arrl.image = image(beautiful.arrl)
-arrl_dl = widget ({type = "imagebox" })
-arrl_dl.image = image(beautiful.arrl_dl)
-arrl_ld = widget ({type = "imagebox" })
-arrl_ld.image = image(beautiful.arrl_ld)
-arrl_dfl = widget ({type = "imagebox" })
-arrl_dfl.image = image(beautiful.arrl_dfl)
-arrl_lfd = widget ({type = "imagebox" })
-arrl_lfd.image = image(beautiful.arrl_lfd)
-
--- ##################################################
-
 spr3f = widget({ type = "textbox" })
 spr3f.text = '<span background="#777e76" font="Terminus 12"> </span>'
-
 arr1 = widget ({type = "imagebox" })
 arr1.image = image(beautiful.arr1)
 arr2 = widget ({type = "imagebox" })
@@ -545,8 +529,6 @@ arr9 = widget ({type = "imagebox" })
 arr9.image = image(beautiful.arr9)
 arr0 = widget ({type = "imagebox" })
 arr0.image = image(beautiful.arr0)
-
--- ##################################################
 
 
 --{{---| Panel |------------------------------------------------------------------------------------
