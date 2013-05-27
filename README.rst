@@ -1,4 +1,4 @@
 Awesome Powerarrow theme
 ---------
-.. image:: http://ompldr.org/vZ3lpOA/screen-21-52-03.png
+.. image:: https://raw.github.com/romockee/powerarrow/master/screenshots/screen-21-50-15.png
 
